@@ -1,4 +1,4 @@
-# Mars-Semantic-Segmentation
+# Semantic Segmentation of Mars Surface Images
 This project was developed during a two-week [Coding Challenge](https://www.kaggle.com/competitions/an-2-dl-2024-2025-homework-2/overview) as part of the evaluation for the _Artificial Neural Networks and Deep Learning_ course at Politecnico di Milano, A.Y. 2024-2025. The programming language used is Python, specifically employing the TensorFlow/Keras library.
 
 ## Files description
